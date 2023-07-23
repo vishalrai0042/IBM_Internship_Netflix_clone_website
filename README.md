@@ -2,10 +2,11 @@
 This is the core code from scratch to clone the landing page of Netflix using **HTML, CSS and JavaScript.**
 
 ## 📸 Screenshots
-![image](https://github.com/vishalrai0042/IBM_Internship_Netflix_clone_website/assets/113556223/64335ba8-5784-4462-95b0-7d6a3a529684)
-![image](https://github.com/vishalrai0042/IBM_Internship_Netflix_clone_website/assets/113556223/e60591f3-ba18-4436-8af2-66441e2f2583)
-![image](https://github.com/vishalrai0042/IBM_Internship_Netflix_clone_website/assets/113556223/9c2e375f-b0e0-4c43-ac10-1c587c1937f7)
-![Screenshot (111)](https://github.com/vishalrai0042/IBM_Internship_Netflix_clone_website/assets/113556223/6d9a3f13-e1d8-4a81-b84e-11886b8b9360)
+![Screenshot (111)](https://github.com/vishalrai0042/IBM_Internship_Netflix_clone_website/assets/113556223/b3457646-2b84-40f7-868e-280f4c349f2b)
+![Screenshot (112)](https://github.com/vishalrai0042/IBM_Internship_Netflix_clone_website/assets/113556223/aaa63d2c-181f-4d3c-a7bb-d81aa1379bb9)
+![Screenshot (113)](https://github.com/vishalrai0042/IBM_Internship_Netflix_clone_website/assets/113556223/ecf22488-211b-4449-9e84-17734383f8c0)
+![Screenshot (114)](https://github.com/vishalrai0042/IBM_Internship_Netflix_clone_website/assets/113556223/a9e7b2d4-47e8-4973-b9f9-00df0543d0d5)
+
 
 
 
